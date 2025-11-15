@@ -2,17 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package main;
-
-import java.awt.Frame;
-import view.CalculatorFrame;
+package model.operators;
 
 /**
  *
  * @author Garcchi
  */
-public class main {
+public class Division extends Operator {
     
-    CalculatorFrame Frame = new CalculatorFrame();
-    Frame.setVisible(true);
 }
