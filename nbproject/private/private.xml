@@ -2,19 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/Calculator.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/History.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/operators/Division.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/view/CalculatorFrame.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/controller/utils/Status.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/operators/Substraction.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/main/main.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/operators/Operator.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/controller/utils/Response.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/Operation.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/operators/Addition.java</file>
-            <file>file:/C:/Archivos%20de%20Universidad/Semestres/Cuarto%20Semestre/Programacion%20Orientado%20a%20Objetos%20(POO)/Practicas/Calculator/src/model/operators/Multiplication.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
